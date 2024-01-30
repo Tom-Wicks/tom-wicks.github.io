@@ -1,0 +1,25 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 6vh;
+    padding: 1vh 1vh;
+    z-index: 100;
+    border-bottom: 4px solid gold;
+    color: gold;
+    width: 100%;
+}
+
+body {
+    padding-top: 8vh;
+    background-color:black;
+    color:antiquewhite;
+}
+
+a:link {
+    color:gold;
+}
+
+a:visited {
+    color:darkgoldenrod;
+}
