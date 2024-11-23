@@ -67,3 +67,13 @@ a:visited {
     padding-bottom: 10px;
     margin: auto;
 }
+
+.scrollable {
+    overflow: auto;
+    white-space:nowrap;
+    max-width: 640px;
+}
+
+.scrollable img {
+    display: inline-block;
+}
